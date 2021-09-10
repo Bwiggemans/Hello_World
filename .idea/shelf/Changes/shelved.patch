@@ -1,0 +1,12 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+new file mode 100644
+--- /dev/null	(date 1631266946880)
++++ b/index.html	(date 1631266946880)
+@@ -0,0 +1,1 @@
++hello world
+\ No newline at end of file
